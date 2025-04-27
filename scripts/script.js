@@ -10,8 +10,8 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Heaven",
+          artist: "Bryan Adams",
           cover: "https://github.com/AaronNt29/27.github.io/blob/main/img/1.jpg",
           source: "https://github.com/AaronNt29/27.github.io/blob/main/mp3/Bryan%20Adams%20-%20Heaven.mp3",
           url: "https://www.youtube.com/watch?v=s6TtwR2Dbjg",
