@@ -17,6 +17,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=s6TtwR2Dbjg",
           favorited: true
         },
+        {
+          name: "Veo en ti la luz",
+          artist: "Chayanne · Danna Paola",
+          cover: "https://raw.githubusercontent.com/AaronNt29/27.github.io/main/img/2.jpg",
+          source: "https://raw.githubusercontent.com/AaronNt29/27.github.io/main/mp3/Veo%20en%20ti%20la%20luz.mp3",
+          url: "https://www.youtube.com/watch?v=9bGFko9SM0M",
+          favorited: true
+        },
         
         
       ],
