@@ -12,8 +12,8 @@ new Vue({
         {
           name: "Mekanın Sahibi",
           artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          cover: "https://github.com/AaronNt29/27.github.io/blob/main/img/1.jpg",
+          source: "https://github.com/AaronNt29/27.github.io/blob/main/mp3/Bryan%20Adams%20-%20Heaven.mp3",
           url: "https://www.youtube.com/watch?v=s6TtwR2Dbjg",
           favorited: true
         },
