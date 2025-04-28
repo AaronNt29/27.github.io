@@ -25,7 +25,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=9bGFko9SM0M",
           favorited: true
         },
-        
+        {
+          name: "10000 Hours (cover by 정국)",
+          artist: "Dan + Shay & Justin Bieber",
+          cover: "https://raw.githubusercontent.com/AaronNt29/27.github.io/main/img/3.jpg",
+          source: "https://raw.githubusercontent.com/AaronNt29/27.github.io/main/mp3/Jungkook%20(BTS)%2010000%20Hours.mp3",
+          url: "https://www.youtube.com/watch?v=6-Q36XoHlEI",
+          favorited: true
+        },
         
       ],
       currentTrack: null,
